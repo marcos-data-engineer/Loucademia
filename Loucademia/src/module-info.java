@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dcemvasconcellos
+ *
+ */
+module loucademia {
+}
